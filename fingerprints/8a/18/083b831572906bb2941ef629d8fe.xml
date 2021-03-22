@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2021-03-22 06:33:14.438 UTC</timestamp>
+  <md5sum>8a18083b831572906bb2941ef629d8fe</md5sum>
+  <fileName>Credential id=Jenkinss name=icts-admin/****** (Backups)</fileName>
+  <usages>
+    <entry>
+      <string>jenkins_backup</string>
+      <ranges>7</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

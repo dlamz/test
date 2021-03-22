@@ -1,0 +1,12 @@
+Started by user [8mha:////4MBB3g0nGNBtt6O7nD5v2h8kSUUSbnm+P5WkmDuf+9QgAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz+EgYB/dLi1CL9zOSSYt3ElNzMPAAI3qIxxQAAAA==[0mBongani Dlamini
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/jenkins_backup
+[jenkins_backup] $ /bin/bash /tmp/jenkins16312497901705604978.sh
+[main eb21856] Automated Jenkins commit
+ 3 files changed, 2 insertions(+), 52 deletions(-)
+ create mode 100644 jobs/jenkins_backup/builds/19/changelog.xml
+ delete mode 100644 jobs/jenkins_backup/config.xml
+error: src refspec master does not match any
+error: failed to push some refs to 'https://github.com/dlamz/test.git'
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE
